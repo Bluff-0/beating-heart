@@ -20,7 +20,7 @@ Availabe color options are:
 The main div class is beating-heart
 
 # Example of HTML
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,3 +31,4 @@ The main div class is beating-heart
 <div class="beating-heart radical-red"></div>
 </body>
 </html>
+```
