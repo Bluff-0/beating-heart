@@ -1,6 +1,11 @@
 # beating-heart
 A CSS file with beating heart
 uses Colors Crayola
+
+### CDN
+> https://bluff-0.github.io/beating-heart/Beating-heart.css
+
+
 Availabe color options are:
   1. blizzard-blue
   2. radical-red
